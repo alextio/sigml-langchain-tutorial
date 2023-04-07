@@ -16,4 +16,4 @@ python -m venv venv
 source venv/bin/activate # on macOs or Linux. On Windows, try 'venv\Scripts\activate'
 pip install -r requirements.txt
 ```
-2. Get API keys for both OpenAI (using Kixlab's account; refer to Kixlab FAQs) and [SerpAPI](https://serpapi.com/). Input the keys into the `.env` file in the root directory. 
+2. Get API keys for both OpenAI (using Kixlab's account; refer to Kixlab FAQs) and [SerpAPI](https://serpapi.com/).  Input the keys into the `.env` file in the root directory. 
